@@ -1,0 +1,663 @@
+1. Q: Who controlled Vorzel in Kyiv Oblast as of 27 February 2022?
+A: Vorzel was captured by Russian forces on 27 February 2022.
+2. Q: Who controlled Vorzel in Kyiv Oblast as of 1 April 2022?
+A: Vorzel was recaptured by Ukrainian forces on 1 April 2022.
+3. Q: Who controlled Dymer in Kyiv Oblast as of 25 February 2022?
+A: Dymer was captured by Russian forces on 25 February 2022.
+4. Q: Who controlled Dymer in Kyiv Oblast as of 1 April 2022?
+A: Dymer was recaptured by Ukrainian forces on 1 April 2022.
+5. Q: Who controlled Nemishaieve in Kyiv Oblast as of 3 March 2022?
+A: Nemishaieve was captured by Russian forces on 3 March 2022.
+6. Q: Who controlled Nemishaieve in Kyiv Oblast as of 2 April 2022?
+A: Nemishaieve was recaptured by Ukrainian forces on 2 April 2022.
+7. Q: Who controlled Katyuzhanka in Kyiv Oblast as of 26 February 2022?
+A: Katyuzhanka was captured by Russian forces on 26 February 2022.
+8. Q: Who controlled Katyuzhanka in Kyiv Oblast as of 1 April 2022?
+A: Katyuzhanka was recaptured by Ukrainian forces on 1 April 2022.
+9. Q: Who controlled Kozarovychi in Kyiv Oblast as of 26 February 2022?
+A: Kozarovychi was captured by Russian forces on 26 February 2022.
+10. Q: Who controlled Kozarovychi in Kyiv Oblast as of 1 April 2022?
+A: Kozarovychi was recaptured by Ukrainian forces on 1 April 2022.
+11. Q: Who controlled Demydiv in Kyiv Oblast as of 25 February 2022?
+A: Demydiv was captured by Russian forces on 25 February 2022.
+12. Q: Who controlled Demydiv in Kyiv Oblast as of 1 April 2022?
+A: Demydiv was recaptured by Ukrainian forces on 1 April 2022.
+13. Q: Who controlled Hlibivka in Kyiv Oblast as of 25 February 2022?
+A: Hlibivka was captured by Russian forces on 25 February 2022.
+14. Q: Who controlled Hlibivka in Kyiv Oblast as of 1 April 2022?
+A: Hlibivka was recaptured by Ukrainian forces on 1 April 2022.
+15. Q: Who controlled Motyzhyn in Kyiv Oblast as of 27 February 2022?
+A: Motyzhyn was captured by Russian forces on 27 February 2022.
+16. Q: Who controlled Motyzhyn in Kyiv Oblast as of 28 March 2022?
+A: Motyzhyn was recaptured by Ukrainian forces on 28 March 2022.
+17. Q: Who controlled Kopyliv in Kyiv Oblast as of 28 February 2022?
+A: Kopyliv was captured by Russian forces on 28 February 2022.
+18. Q: Who controlled Kopyliv in Kyiv Oblast as of 30 March 2022?
+A: Kopyliv was recaptured by Ukrainian forces on 30 March 2022.
+19. Q: Who controlled Buzova in Kyiv Oblast as of 1 March 2022?
+A: Buzova was captured by Russian forces on 1 March 2022.
+20. Q: Who controlled Buzova in Kyiv Oblast as of 31 March 2022?
+A: Buzova was recaptured by Ukrainian forces on 31 March 2022.
+21. Q: Who controlled Mensk in Chernihiv Oblast as of 25 February 2022?
+A: Mensk was captured by Russian forces on 25 February 2022.
+22. Q: Who controlled Mensk in Chernihiv Oblast as of 3 April 2022?
+A: Mensk was recaptured by Ukrainian forces on 3 April 2022.
+23. Q: Who controlled Snovsk in Chernihiv Oblast as of 24 February 2022?
+A: Snovsk was captured by Russian forces on 24 February 2022.
+24. Q: Who controlled Snovsk in Chernihiv Oblast as of 3 April 2022?
+A: Snovsk was recaptured by Ukrainian forces on 3 April 2022.
+25. Q: Who controlled Sedniv in Chernihiv Oblast as of 25 February 2022?
+A: Sedniv was captured by Russian forces on 25 February 2022.
+26. Q: Who controlled Sedniv in Chernihiv Oblast as of 4 April 2022?
+A: Sedniv was recaptured by Ukrainian forces on 4 April 2022.
+27. Q: Who controlled Novhorod-Siverskyi in Chernihiv Oblast as of 24 February 2022?
+A: Novhorod-Siverskyi was captured by Russian forces on 24 February 2022.
+28. Q: Who controlled Novhorod-Siverskyi in Chernihiv Oblast as of 4 April 2022?
+A: Novhorod-Siverskyi was recaptured by Ukrainian forces on 4 April 2022.
+29. Q: Who controlled Kulykivka in Chernihiv Oblast as of 26 February 2022?
+A: Kulykivka was captured by Russian forces on 26 February 2022.
+30. Q: Who controlled Kulykivka in Chernihiv Oblast as of 2 April 2022?
+A: Kulykivka was recaptured by Ukrainian forces on 2 April 2022.
+31. Q: Who controlled Ichnia in Chernihiv Oblast as of 25 February 2022?
+A: Ichnia was captured by Russian forces on 25 February 2022.
+32. Q: Who controlled Ichnia in Chernihiv Oblast as of 3 April 2022?
+A: Ichnia was recaptured by Ukrainian forces on 3 April 2022.
+33. Q: Who controlled Borzna in Chernihiv Oblast as of 26 February 2022?
+A: Borzna was captured by Russian forces on 26 February 2022.
+34. Q: Who controlled Borzna in Chernihiv Oblast as of 3 April 2022?
+A: Borzna was recaptured by Ukrainian forces on 3 April 2022.
+35. Q: Who controlled Bakhmach in Chernihiv Oblast as of 25 February 2022?
+A: Bakhmach was captured by Russian forces on 25 February 2022.
+36. Q: Who controlled Bakhmach in Chernihiv Oblast as of 4 April 2022?
+A: Bakhmach was recaptured by Ukrainian forces on 4 April 2022.
+37. Q: Who controlled Nosivka in Chernihiv Oblast as of 27 February 2022?
+A: Nosivka was captured by Russian forces on 27 February 2022.
+38. Q: Who controlled Nosivka in Chernihiv Oblast as of 1 April 2022?
+A: Nosivka was recaptured by Ukrainian forces on 1 April 2022.
+39. Q: Who controlled Bobrovytsia in Chernihiv Oblast as of 27 February 2022?
+A: Bobrovytsia was captured by Russian forces on 27 February 2022.
+40. Q: Who controlled Bobrovytsia in Chernihiv Oblast as of 1 April 2022?
+A: Bobrovytsia was recaptured by Ukrainian forces on 1 April 2022.
+41. Q: Who controlled Oster in Chernihiv Oblast as of 3 March 2022?
+A: Oster was captured by Russian forces on 3 March 2022.
+42. Q: Who controlled Oster in Chernihiv Oblast as of 31 March 2022?
+A: Oster was recaptured by Ukrainian forces on 31 March 2022.
+43. Q: Who controlled Konotop in Sumy Oblast as of 25 February 2022?
+A: Konotop was captured by Russian forces on 25 February 2022.
+44. Q: Who controlled Konotop in Sumy Oblast as of 4 April 2022?
+A: Konotop was recaptured by Ukrainian forces on 4 April 2022.
+45. Q: Who controlled Shostka in Sumy Oblast as of 24 February 2022?
+A: Shostka was captured by Russian forces on 24 February 2022.
+46. Q: Who controlled Shostka in Sumy Oblast as of 4 April 2022?
+A: Shostka was recaptured by Ukrainian forces on 4 April 2022.
+47. Q: Who controlled Romny in Sumy Oblast as of 26 February 2022?
+A: Romny was captured by Russian forces on 26 February 2022.
+48. Q: Who controlled Romny in Sumy Oblast as of 4 April 2022?
+A: Romny was recaptured by Ukrainian forces on 4 April 2022.
+49. Q: Who controlled Lebedyn in Sumy Oblast as of 27 February 2022?
+A: Lebedyn was captured by Russian forces on 27 February 2022.
+50. Q: Who controlled Lebedyn in Sumy Oblast as of 4 April 2022?
+A: Lebedyn was recaptured by Ukrainian forces on 4 April 2022.
+51. Q: Who controlled Krolevets in Sumy Oblast as of 25 February 2022?
+A: Krolevets was captured by Russian forces on 25 February 2022.
+52. Q: Who controlled Krolevets in Sumy Oblast as of 3 April 2022?
+A: Krolevets was recaptured by Ukrainian forces on 3 April 2022.
+53. Q: Who controlled Putyvl in Sumy Oblast as of 26 February 2022?
+A: Putyvl was captured by Russian forces on 26 February 2022.
+54. Q: Who controlled Putyvl in Sumy Oblast as of 3 April 2022?
+A: Putyvl was recaptured by Ukrainian forces on 3 April 2022.
+55. Q: Who controlled Bilopillia in Sumy Oblast as of 24 February 2022?
+A: Bilopillia was captured by Russian forces on 24 February 2022.
+56. Q: Who controlled Bilopillia in Sumy Oblast as of 4 April 2022?
+A: Bilopillia was recaptured by Ukrainian forces on 4 April 2022.
+57. Q: Who controlled Krasnopillia in Sumy Oblast as of 24 February 2022?
+A: Krasnopillia was captured by Russian forces on 24 February 2022.
+58. Q: Who controlled Krasnopillia in Sumy Oblast as of 4 April 2022?
+A: Krasnopillia was recaptured by Ukrainian forces on 4 April 2022.
+59. Q: Who controlled Velyka Pysarivka in Sumy Oblast as of 25 February 2022?
+A: Velyka Pysarivka was captured by Russian forces on 25 February 2022.
+60. Q: Who controlled Velyka Pysarivka in Sumy Oblast as of 4 April 2022?
+A: Velyka Pysarivka was recaptured by Ukrainian forces on 4 April 2022.
+61. Q: Who controlled Buryn in Sumy Oblast as of 25 February 2022?
+A: Buryn was captured by Russian forces on 25 February 2022.
+62. Q: Who controlled Buryn in Sumy Oblast as of 4 April 2022?
+A: Buryn was recaptured by Ukrainian forces on 4 April 2022.
+63. Q: Who controlled Seredyna-Buda in Sumy Oblast as of 24 February 2022?
+A: Seredyna-Buda was captured by Russian forces on 24 February 2022.
+64. Q: Who controlled Seredyna-Buda in Sumy Oblast as of 4 April 2022?
+A: Seredyna-Buda was recaptured by Ukrainian forces on 4 April 2022.
+65. Q: Who controlled Yampil in Sumy Oblast as of 24 February 2022?
+A: Yampil was captured by Russian forces on 24 February 2022.
+66. Q: Who controlled Yampil in Sumy Oblast as of 4 April 2022?
+A: Yampil was recaptured by Ukrainian forces on 4 April 2022.
+67. Q: Who controlled Hlukhiv in Sumy Oblast as of 24 February 2022?
+A: Hlukhiv was captured by Russian forces on 24 February 2022.
+68. Q: Who controlled Hlukhiv in Sumy Oblast as of 4 April 2022?
+A: Hlukhiv was recaptured by Ukrainian forces on 4 April 2022.
+69. Q: Who controlled Voronizh in Sumy Oblast as of 25 February 2022?
+A: Voronizh was captured by Russian forces on 25 February 2022.
+70. Q: Who controlled Voronizh in Sumy Oblast as of 4 April 2022?
+A: Voronizh was recaptured by Ukrainian forces on 4 April 2022.
+71. Q: Who controlled Boromlya in Sumy Oblast as of 26 February 2022?
+A: Boromlya was captured by Russian forces on 26 February 2022.
+72. Q: Who controlled Boromlya in Sumy Oblast as of 26 March 2022?
+A: Boromlya was recaptured by Ukrainian forces on 26 March 2022.
+73. Q: Who controlled Shevchenkove in Kharkiv Oblast as of 28 February 2022?
+A: Shevchenkove was captured by Russian forces on 28 February 2022.
+74. Q: Who controlled Shevchenkove in Kharkiv Oblast as of 8 September 2022?
+A: Shevchenkove was recaptured by Ukrainian forces on 8 September 2022.
+75. Q: Who controlled Pechenihy in Kharkiv Oblast as of 1 March 2022?
+A: Pechenihy was captured by Russian forces on 1 March 2022.
+76. Q: Who controlled Pechenihy in Kharkiv Oblast as of 10 September 2022?
+A: Pechenihy was recaptured by Ukrainian forces on 10 September 2022.
+77. Q: Who controlled Velykyi Burluk in Kharkiv Oblast as of 2 March 2022?
+A: Velykyi Burluk was captured by Russian forces on 2 March 2022.
+78. Q: Who controlled Velykyi Burluk in Kharkiv Oblast as of 10 September 2022?
+A: Velykyi Burluk was recaptured by Ukrainian forces on 10 September 2022.
+79. Q: Who controlled Chuhuiv in Kharkiv Oblast as of 25 February 2022?
+A: Chuhuiv was captured by Russian forces on 25 February 2022.
+80. Q: Who controlled Chuhuiv in Kharkiv Oblast as of 7 March 2022?
+A: Chuhuiv was recaptured by Ukrainian forces on 7 March 2022.
+81. Q: Who controlled Chkalovske in Kharkiv Oblast as of 16 March 2022?
+A: Chkalovske was captured by Russian forces on 16 March 2022.
+82. Q: Who controlled Chkalovske in Kharkiv Oblast as of 6 September 2022?
+A: Chkalovske was recaptured by Ukrainian forces on 6 September 2022.
+83. Q: Who controlled Khotimlia in Kharkiv Oblast as of 24 February 2022?
+A: Khotimlia was captured by Russian forces on 24 February 2022.
+84. Q: Who controlled Khotimlia in Kharkiv Oblast as of 10 September 2022?
+A: Khotimlia was recaptured by Ukrainian forces on 10 September 2022.
+85. Q: Who controlled Kivsharivka in Kharkiv Oblast as of 3 March 2022?
+A: Kivsharivka was captured by Russian forces on 3 March 2022.
+86. Q: Who controlled Kivsharivka in Kharkiv Oblast as of 28 September 2022?
+A: Kivsharivka was recaptured by Ukrainian forces on 28 September 2022.
+87. Q: Who controlled Husarivka in Kharkiv Oblast as of 15 March 2022?
+A: Husarivka was captured by Russian forces on 15 March 2022.
+88. Q: Who controlled Husarivka in Kharkiv Oblast as of 27 March 2022?
+A: Husarivka was recaptured by Ukrainian forces on 27 March 2022.
+89. Q: Who controlled Dvorichna in Kharkiv Oblast as of 14 April 2022?
+A: Dvorichna was captured by Russian forces on 14 April 2022.
+90. Q: Who controlled Dvorichna in Kharkiv Oblast as of 11 September 2022?
+A: Dvorichna was recaptured by Ukrainian forces on 11 September 2022.
+91. Q: Who controlled Nova Kakhovka in Kherson Oblast as of 27 February 2022?
+A: Nova Kakhovka was captured by Russian forces on 27 February 2022.
+92. Q: Who controlled Kakhovka in Kherson Oblast as of 28 February 2022?
+A: Kakhovka was captured by Russian forces on 28 February 2022.
+93. Q: Who controlled Oleshky in Kherson Oblast as of 2 March 2022?
+A: Oleshky was captured by Russian forces on 2 March 2022.
+94. Q: Who controlled Hola Prystan in Kherson Oblast as of 3 March 2022?
+A: Hola Prystan was captured by Russian forces on 3 March 2022.
+95. Q: Who controlled Skadovsk in Kherson Oblast as of 9 March 2022?
+A: Skadovsk was captured by Russian forces on 9 March 2022.
+96. Q: Who controlled Henichesk in Kherson Oblast as of 24 February 2022?
+A: Henichesk was captured by Russian forces on 24 February 2022.
+97. Q: Who controlled Novotroitske in Kherson Oblast as of 25 February 2022?
+A: Novotroitske was captured by Russian forces on 25 February 2022.
+98. Q: Who controlled Chaplynka in Kherson Oblast as of 24 February 2022?
+A: Chaplynka was captured by Russian forces on 24 February 2022.
+99. Q: Who controlled Kalanchak in Kherson Oblast as of 24 February 2022?
+A: Kalanchak was captured by Russian forces on 24 February 2022.
+100. Q: Who controlled Beryslav in Kherson Oblast as of 2 March 2022?
+A: Beryslav was captured by Russian forces on 2 March 2022.
+101. Q: Who controlled Beryslav in Kherson Oblast as of 11 November 2022?
+A: Beryslav was recaptured by Ukrainian forces on 11 November 2022.
+102. Q: Who controlled Vysokopillia in Kherson Oblast as of 16 March 2022?
+A: Vysokopillia was captured by Russian forces on 16 March 2022.
+103. Q: Who controlled Vysokopillia in Kherson Oblast as of 4 September 2022?
+A: Vysokopillia was recaptured by Ukrainian forces on 4 September 2022.
+104. Q: Who controlled Novovorontsovka in Kherson Oblast as of 25 March 2022?
+A: Novovorontsovka was recaptured by Ukrainian forces on 25 March 2022.
+105. Q: Who controlled Chornobaivka in Kherson Oblast as of 27 February 2022?
+A: Chornobaivka was captured by Russian forces on 27 February 2022.
+106. Q: Who controlled Chornobaivka in Kherson Oblast as of 11 November 2022?
+A: Chornobaivka was recaptured by Ukrainian forces on 11 November 2022.
+107. Q: Who controlled Bilozerka in Kherson Oblast as of 2 March 2022?
+A: Bilozerka was captured by Russian forces on 2 March 2022.
+108. Q: Who controlled Bilozerka in Kherson Oblast as of 11 November 2022?
+A: Bilozerka was recaptured by Ukrainian forces on 11 November 2022.
+109. Q: Who controlled Stanislav in Kherson Oblast as of 5 March 2022?
+A: Stanislav was captured by Russian forces on 5 March 2022.
+110. Q: Who controlled Stanislav in Kherson Oblast as of 10 November 2022?
+A: Stanislav was recaptured by Ukrainian forces on 10 November 2022.
+111. Q: Who controlled Kyselivka in Kherson Oblast as of 6 March 2022?
+A: Kyselivka was captured by Russian forces on 6 March 2022.
+112. Q: Who controlled Kyselivka in Kherson Oblast as of 10 November 2022?
+A: Kyselivka was recaptured by Ukrainian forces on 10 November 2022.
+113. Q: Who controlled Posad-Pokrovske in Kherson Oblast as of 17 March 2022?
+A: Posad-Pokrovske was recaptured by Ukrainian forces on 17 March 2022.
+114. Q: Who controlled Enerhodar in Zaporizhzhia Oblast as of 4 March 2022?
+A: Enerhodar was captured by Russian forces on 4 March 2022.
+115. Q: Who controlled Tokmak in Zaporizhzhia Oblast as of 2 March 2022?
+A: Tokmak was captured by Russian forces on 2 March 2022.
+116. Q: Who controlled Polohy in Zaporizhzhia Oblast as of 3 March 2022?
+A: Polohy was captured by Russian forces on 3 March 2022.
+117. Q: Who controlled Vasylivka in Zaporizhzhia Oblast as of 4 March 2022?
+A: Vasylivka was captured by Russian forces on 4 March 2022.
+118. Q: Who controlled Kamianka-Dniprovska in Zaporizhzhia Oblast as of 3 March 2022?
+A: Kamianka-Dniprovska was captured by Russian forces on 3 March 2022.
+119. Q: Who controlled Mykhailivka in Zaporizhzhia Oblast as of 3 March 2022?
+A: Mykhailivka was captured by Russian forces on 3 March 2022.
+120. Q: Who controlled Akymivka in Zaporizhzhia Oblast as of 1 March 2022?
+A: Akymivka was captured by Russian forces on 1 March 2022.
+121. Q: Who controlled Pryazovske in Zaporizhzhia Oblast as of 1 March 2022?
+A: Pryazovske was captured by Russian forces on 1 March 2022.
+122. Q: Who controlled Prymorsk in Zaporizhzhia Oblast as of 1 March 2022?
+A: Prymorsk was captured by Russian forces on 1 March 2022.
+123. Q: Who controlled Chernihivka in Zaporizhzhia Oblast as of 3 March 2022?
+A: Chernihivka was captured by Russian forces on 3 March 2022.
+124. Q: Who controlled Rozivka in Zaporizhzhia Oblast as of 3 March 2022?
+A: Rozivka was captured by Russian forces on 3 March 2022.
+125. Q: Who controlled Bilmak in Zaporizhzhia Oblast as of 3 March 2022?
+A: Bilmak was captured by Russian forces on 3 March 2022.
+126. Q: Who controlled Velyka Bilozerka in Zaporizhzhia Oblast as of 3 March 2022?
+A: Velyka Bilozerka was captured by Russian forces on 3 March 2022.
+127. Q: Who controlled Novomaiorske in Donetsk Oblast as of 5 March 2022?
+A: Novomaiorske was captured by Russian forces on 5 March 2022.
+128. Q: Who controlled Mykilske in Donetsk Oblast as of 8 March 2022?
+A: Mykilske was captured by Russian forces on 8 March 2022.
+129. Q: Who controlled Mangush in Donetsk Oblast as of 8 March 2022?
+A: Mangush was captured by Russian forces on 8 March 2022.
+130. Q: Who controlled Volodarske in Donetsk Oblast as of 10 March 2022?
+A: Volodarske was captured by Russian forces on 10 March 2022.
+131. Q: Who controlled Sartana in Donetsk Oblast as of 1 March 2022?
+A: Sartana was captured by Russian forces on 1 March 2022.
+132. Q: Who controlled Staryi Krym in Donetsk Oblast as of 9 March 2022?
+A: Staryi Krym was captured by Russian forces on 9 March 2022.
+133. Q: Who controlled Olenivka in Donetsk Oblast as of 26 February 2022?
+A: Olenivka was captured by Russian forces on 26 February 2022.
+134. Q: Who controlled Hranitne in Donetsk Oblast as of 28 February 2022?
+A: Hranitne was captured by Russian forces on 28 February 2022.
+135. Q: Who controlled Katerynivka in Luhansk Oblast as of 20 June 2022?
+A: Katerynivka was captured by Russian forces on 20 June 2022.
+136. Q: Who controlled Hirske in Luhansk Oblast as of 23 June 2022?
+A: Hirske was captured by Russian forces on 23 June 2022.
+137. Q: Who controlled Zolote in Luhansk Oblast as of 23 June 2022?
+A: Zolote was captured by Russian forces on 23 June 2022.
+138. Q: Who controlled Toshkivka in Luhansk Oblast as of 21 June 2022?
+A: Toshkivka was captured by Russian forces on 21 June 2022.
+139. Q: Who controlled Novoaidar in Luhansk Oblast as of 3 March 2022?
+A: Novoaidar was captured by Russian forces on 3 March 2022.
+140. Q: Who controlled Shchastia in Luhansk Oblast as of 26 February 2022?
+A: Shchastia was captured by Russian forces on 26 February 2022.
+141. Q: Who controlled Stanytsia Luhanska in Luhansk Oblast as of 26 February 2022?
+A: Stanytsia Luhanska was captured by Russian forces on 26 February 2022.
+142. Q: Who controlled Starobilsk in Luhansk Oblast as of 2 March 2022?
+A: Starobilsk was captured by Russian forces on 2 March 2022.
+143. Q: Who controlled Svatove in Luhansk Oblast as of 6 March 2022?
+A: Svatove was captured by Russian forces on 6 March 2022.
+144. Q: Who controlled Bilokurakyne in Luhansk Oblast as of 3 March 2022?
+A: Bilokurakyne was captured by Russian forces on 3 March 2022.
+145. Q: Who controlled Novopskov in Luhansk Oblast as of 4 March 2022?
+A: Novopskov was captured by Russian forces on 4 March 2022.
+146. Q: Who controlled Markivka in Luhansk Oblast as of 25 February 2022?
+A: Markivka was captured by Russian forces on 25 February 2022.
+147. Q: Who controlled Milove in Luhansk Oblast as of 24 February 2022?
+A: Milove was captured by Russian forces on 24 February 2022.
+148. Q: Who controlled Troitske in Luhansk Oblast as of 28 February 2022?
+A: Troitske was captured by Russian forces on 28 February 2022.
+149. Q: Who controlled Krasnorichenske in Luhansk Oblast as of 6 March 2022?
+A: Krasnorichenske was captured by Russian forces on 6 March 2022.
+150. Q: Who controlled Borivske in Luhansk Oblast as of 25 June 2022?
+A: Borivske was captured by Russian forces on 25 June 2022.
+151. Q: Who controlled Neskuchne in Donetsk Oblast as of 10 June 2023?
+A: Neskuchne was recaptured by Ukrainian forces on 10 June 2023.
+152. Q: Who controlled Blahodatne in Donetsk Oblast as of 11 June 2023?
+A: Blahodatne was recaptured by Ukrainian forces on 11 June 2023.
+153. Q: Who controlled Makarivka in Donetsk Oblast as of 13 June 2023?
+A: Makarivka was recaptured by Ukrainian forces on 13 June 2023.
+154. Q: Who controlled Pyatykhatky in Zaporizhzhia Oblast as of 19 June 2023?
+A: Pyatykhatky was recaptured by Ukrainian forces on 19 June 2023.
+155. Q: Who controlled Levadne in Zaporizhzhia Oblast as of 12 June 2023?
+A: Levadne was recaptured by Ukrainian forces on 12 June 2023.
+156. Q: Who controlled Novodarivka in Zaporizhzhia Oblast as of 4 June 2023?
+A: Novodarivka was recaptured by Ukrainian forces on 4 June 2023.
+157. Q: Who controlled Rivnopil in Donetsk Oblast as of 26 June 2023?
+A: Rivnopil was recaptured by Ukrainian forces on 26 June 2023.
+158. Q: Who controlled Bohorodychne in Donetsk Oblast as of 11 September 2022?
+A: Bohorodychne was recaptured by Ukrainian forces on 11 September 2022.
+159. Q: Who controlled Yarova in Donetsk Oblast as of 19 September 2022?
+A: Yarova was recaptured by Ukrainian forces on 19 September 2022.
+160. Q: Who controlled Oleksandrivka in Kherson Oblast as of 10 November 2022?
+A: Oleksandrivka was recaptured by Ukrainian forces on 10 November 2022.
+161. Q: Who controlled Pravdyne in Kherson Oblast as of 9 November 2022?
+A: Pravdyne was recaptured by Ukrainian forces on 9 November 2022.
+162. Q: Who controlled Dudchany in Kherson Oblast as of 6 October 2022?
+A: Dudchany was recaptured by Ukrainian forces on 6 October 2022.
+163. Q: Who controlled Myroliubivka in Kherson Oblast as of 3 October 2022?
+A: Myroliubivka was recaptured by Ukrainian forces on 3 October 2022.
+164. Q: Who controlled Arkhanhelske in Kherson Oblast as of 3 October 2022?
+A: Arkhanhelske was recaptured by Ukrainian forces on 3 October 2022.
+165. Q: Who controlled Novopetrivka in Kherson Oblast as of 4 October 2022?
+A: Novopetrivka was recaptured by Ukrainian forces on 4 October 2022.
+166. Q: Who controlled Starosillia in Kherson Oblast as of 4 October 2022?
+A: Starosillia was recaptured by Ukrainian forces on 4 October 2022.
+167. Q: Who controlled Velyke Artakove in Mykolaiv Oblast as of 4 October 2022?
+A: Velyke Artakove was recaptured by Ukrainian forces on 4 October 2022.
+168. Q: Who controlled Ternovi Pody in Mykolaiv Oblast as of 10 November 2022?
+A: Ternovi Pody was recaptured by Ukrainian forces on 10 November 2022.
+169. Q: Who controlled Partyzanske in Mykolaiv Oblast as of 10 November 2022?
+A: Partyzanske was recaptured by Ukrainian forces on 10 November 2022.
+170. Q: Who controlled Blahodatne in Mykolaiv Oblast as of 10 November 2022?
+A: Blahodatne was recaptured by Ukrainian forces on 10 November 2022.
+171. Q: Who controlled Tyahynka in Kherson Oblast as of 11 November 2022?
+A: Tyahynka was recaptured by Ukrainian forces on 11 November 2022.
+172. Q: Who controlled Beryslav in Kherson Oblast as of 11 November 2022?
+A: Beryslav was recaptured by Ukrainian forces on 11 November 2022.
+173. Q: Who controlled Kozatske in Kherson Oblast as of 11 November 2022?
+A: Kozatske was recaptured by Ukrainian forces on 11 November 2022.
+174. Q: Who controlled Kyselivka in Mykolaiv Oblast as of 10 November 2022?
+A: Kyselivka was recaptured by Ukrainian forces on 10 November 2022.
+175. Q: Who controlled Stepova Dolyna in Mykolaiv Oblast as of 10 November 2022?
+A: Stepova Dolyna was recaptured by Ukrainian forces on 10 November 2022.
+176. Q: Who controlled Lyptsi in Kharkiv Oblast as of 24 February 2022?
+A: Lyptsi was captured by Russian forces on 24 February 2022.
+177. Q: Who controlled Lyptsi in Kharkiv Oblast as of 11 September 2022?
+A: Lyptsi was recaptured by Ukrainian forces on 11 September 2022.
+178. Q: Who controlled Kozacha Lopan in Kharkiv Oblast as of 24 February 2022?
+A: Kozacha Lopan was captured by Russian forces on 24 February 2022.
+179. Q: Who controlled Kozacha Lopan in Kharkiv Oblast as of 11 September 2022?
+A: Kozacha Lopan was recaptured by Ukrainian forces on 11 September 2022.
+180. Q: Who controlled Staryi Saltiv in Kharkiv Oblast as of 24 February 2022?
+A: Staryi Saltiv was captured by Russian forces on 24 February 2022.
+181. Q: Who controlled Staryi Saltiv in Kharkiv Oblast as of 2 May 2022?
+A: Staryi Saltiv was recaptured by Ukrainian forces on 2 May 2022.
+182. Q: Who controlled Vilkhivka in Kharkiv Oblast as of 27 March 2022?
+A: Vilkhivka was recaptured by Ukrainian forces on 27 March 2022.
+183. Q: Who controlled Mala Rohan in Kharkiv Oblast as of 27 March 2022?
+A: Mala Rohan was recaptured by Ukrainian forces on 27 March 2022.
+184. Q: Who controlled Kutuzivka in Kharkiv Oblast as of 28 April 2022?
+A: Kutuzivka was recaptured by Ukrainian forces on 28 April 2022.
+185. Q: Who controlled Ruski Tyshky in Kharkiv Oblast as of 10 May 2022?
+A: Ruski Tyshky was recaptured by Ukrainian forces on 10 May 2022.
+186. Q: Who controlled Cherkaski Tyshky in Kharkiv Oblast as of 10 May 2022?
+A: Cherkaski Tyshky was recaptured by Ukrainian forces on 10 May 2022.
+187. Q: Who controlled Ternova in Kharkiv Oblast as of 18 May 2022?
+A: Ternova was recaptured by Ukrainian forces on 18 May 2022.
+188. Q: Who controlled Rubizhne in Kharkiv Oblast as of 10 May 2022?
+A: Rubizhne was recaptured by Ukrainian forces on 10 May 2022.
+189. Q: Who controlled Bayramrak in Kharkiv Oblast as of 6 September 2022?
+A: Bayramrak was recaptured by Ukrainian forces on 6 September 2022.
+190. Q: Who controlled Yakovenkove in Kharkiv Oblast as of 7 September 2022?
+A: Yakovenkove was recaptured by Ukrainian forces on 7 September 2022.
+191. Q: Who controlled Volokhiv Yar in Kharkiv Oblast as of 8 September 2022?
+A: Volokhiv Yar was recaptured by Ukrainian forces on 8 September 2022.
+192. Q: Who controlled Savyntsi in Kharkiv Oblast as of 10 September 2022?
+A: Savyntsi was recaptured by Ukrainian forces on 10 September 2022.
+193. Q: Who controlled Oskil in Kharkiv Oblast as of 10 September 2022?
+A: Oskil was recaptured by Ukrainian forces on 10 September 2022.
+194. Q: Who controlled Studenok in Kharkiv Oblast as of 15 September 2022?
+A: Studenok was recaptured by Ukrainian forces on 15 September 2022.
+195. Q: Who controlled Sosnove in Donetsk Oblast as of 17 September 2022?
+A: Sosnove was recaptured by Ukrainian forces on 17 September 2022.
+196. Q: Who controlled Rubtsi in Donetsk Oblast as of 25 September 2022?
+A: Rubtsi was recaptured by Ukrainian forces on 25 September 2022.
+197. Q: Who controlled Korovii Yar in Donetsk Oblast as of 24 September 2022?
+A: Korovii Yar was recaptured by Ukrainian forces on 24 September 2022.
+198. Q: Who controlled Ridkodub in Donetsk Oblast as of 27 September 2022?
+A: Ridkodub was recaptured by Ukrainian forces on 27 September 2022.
+199. Q: Who controlled Pisky-Radkivski in Kharkiv Oblast as of 26 September 2022?
+A: Pisky-Radkivski was recaptured by Ukrainian forces on 26 September 2022.
+200. Q: Who controlled Novolubivka in Luhansk Oblast as of 5 October 2022?
+A: Novolubivka was recaptured by Ukrainian forces on 5 October 2022.
+201. Q: Who controlled Hrekivka in Luhansk Oblast as of 5 October 2022?
+A: Hrekivka was recaptured by Ukrainian forces on 5 October 2022.
+202. Q: Who controlled Makiivka in Luhansk Oblast as of 5 October 2022?
+A: Makiivka was recaptured by Ukrainian forces on 5 October 2022.
+203. Q: Who controlled Nevske in Luhansk Oblast as of 24 October 2022?
+A: Nevske was recaptured by Ukrainian forces on 24 October 2022.
+204. Q: Who controlled Karmazynivka in Luhansk Oblast as of 24 October 2022?
+A: Karmazynivka was recaptured by Ukrainian forces on 24 October 2022.
+205. Q: Who controlled Myasozharivka in Luhansk Oblast as of 24 October 2022?
+A: Myasozharivka was recaptured by Ukrainian forces on 24 October 2022.
+206. Q: Who controlled Stelmakhivka in Luhansk Oblast as of 9 October 2022?
+A: Stelmakhivka was recaptured by Ukrainian forces on 9 October 2022.
+207. Q: Who controlled Kolomyichykha in Luhansk Oblast as of 3 November 2022?
+A: Kolomyichykha was recaptured by Ukrainian forces on 3 November 2022.
+208. Q: Who controlled Novoselivske in Luhansk Oblast as of 30 December 2022?
+A: Novoselivske was recaptured by Ukrainian forces on 30 December 2022.
+209. Q: Who controlled Metolkine in Luhansk Oblast as of 18 June 2022?
+A: Metolkine was captured by Russian forces on 18 June 2022.
+210. Q: Who controlled Syrotyne in Luhansk Oblast as of 25 June 2022?
+A: Syrotyne was captured by Russian forces on 25 June 2022.
+211. Q: Who controlled Voronove in Luhansk Oblast as of 25 June 2022?
+A: Voronove was captured by Russian forces on 25 June 2022.
+212. Q: Who controlled Bilohorivka in Luhansk Oblast as of 3 July 2022?
+A: Bilohorivka was captured by Russian forces on 3 July 2022.
+213. Q: Who controlled Spirne in Donetsk Oblast as of 15 July 2022?
+A: Spirne was recaptured by Ukrainian forces on 15 July 2022.
+214. Q: Who controlled Berestove in Donetsk Oblast as of 28 July 2022?
+A: Berestove was captured by Russian forces on 28 July 2022.
+215. Q: Who controlled Pokrovske in Donetsk Oblast as of 27 July 2022?
+A: Pokrovske was captured by Russian forces on 27 July 2022.
+216. Q: Who controlled Novoluhanske in Donetsk Oblast as of 26 July 2022?
+A: Novoluhanske was captured by Russian forces on 26 July 2022.
+217. Q: Who controlled Semihirya in Donetsk Oblast as of 29 July 2022?
+A: Semihirya was captured by Russian forces on 29 July 2022.
+218. Q: Who controlled Zaitseve in Donetsk Oblast as of 6 October 2022?
+A: Zaitseve was captured by Russian forces on 6 October 2022.
+219. Q: Who controlled Ivanhrad near Bakhmut as of 14 October 2022?
+A: Ivanhrad was captured by Russian forces on 14 October 2022.
+220. Q: Who controlled Yakovlivka near Soledar as of 16 December 2022?
+A: Yakovlivka was captured by Russian forces on 16 December 2022.
+221. Q: Who controlled Bakhmutske near Soledar as of 27 December 2022?
+A: Bakhmutske was captured by Russian forces on 27 December 2022.
+222. Q: Who controlled Krasna Hora near Bakhmut as of 11 February 2023?
+A: Krasna Hora was captured by Russian forces on 11 February 2023.
+223. Q: Who controlled Dubovo-Vasylivka near Bakhmut as of 9 March 2023?
+A: Dubovo-Vasylivka was captured by Russian forces on 9 March 2023.
+224. Q: Who controlled Zaliznyanske near Bakhmut as of 15 March 2023?
+A: Zaliznyanske was captured by Russian forces on 15 March 2023.
+225. Q: Who controlled Bohdanivka near Chasiv Yar as of 13 April 2024?
+A: Bohdanivka was captured by Russian forces on 13 April 2024.
+226. Q: Who controlled Ivanivske near Chasiv Yar as of 10 June 2024?
+A: Ivanivske was captured by Russian forces on 10 June 2024.
+227. Q: Who controlled Shumiy in Donetsk Oblast as of 21 June 2024?
+A: Shumiy was captured by Russian forces on 21 June 2024.
+228. Q: Who controlled Pivnichne near Toretsk as of 31 August 2024?
+A: Pivnichne was captured by Russian forces on 31 August 2024.
+229. Q: Who controlled Zalizne near Toretsk as of 19 August 2024?
+A: Zalizne was captured by Russian forces on 19 August 2024.
+230. Q: Who controlled Druzhba near Toretsk as of 2 September 2024?
+A: Druzhba was captured by Russian forces on 2 September 2024.
+231. Q: Who controlled Prohres in Donetsk Oblast as of 19 July 2024?
+A: Prohres was captured by Russian forces on 19 July 2024.
+232. Q: Who controlled Vovche in Donetsk Oblast as of 26 July 2024?
+A: Vovche was captured by Russian forces on 26 July 2024.
+233. Q: Who controlled Yevhenivka in Donetsk Oblast as of 11 July 2024?
+A: Yevhenivka was captured by Russian forces on 11 July 2024.
+234. Q: Who controlled Voskhod in Donetsk Oblast as of 11 July 2024?
+A: Voskhod was captured by Russian forces on 11 July 2024.
+235. Q: Who controlled Novoselivka Persha in Donetsk Oblast as of 29 July 2024?
+A: Novoselivka Persha was captured by Russian forces on 29 July 2024.
+236. Q: Who controlled Zhelanne in Donetsk Oblast as of 12 August 2024?
+A: Zhelanne was captured by Russian forces on 12 August 2024.
+237. Q: Who controlled Orlivka near Pokrovsk as of 14 August 2024?
+A: Orlivka was captured by Russian forces on 14 August 2024.
+238. Q: Who controlled Mykolayivka near Pokrovsk as of 18 September 2024?
+A: Mykolayivka was captured by Russian forces on 18 September 2024.
+239. Q: Who controlled Memryk in Donetsk Oblast as of 28 August 2024?
+A: Memryk was captured by Russian forces on 28 August 2024.
+240. Q: Who controlled Kalynove in Donetsk Oblast as of 27 August 2024?
+A: Kalynove was captured by Russian forces on 27 August 2024.
+241. Q: Who controlled Komyshivka in Donetsk Oblast as of 22 August 2024?
+A: Komyshivka was captured by Russian forces on 22 August 2024.
+242. Q: Who controlled Ptyche in Donetsk Oblast as of 22 August 2024?
+A: Ptyche was captured by Russian forces on 22 August 2024.
+243. Q: Who controlled Krasnyi Yar near Pokrovsk as of 17 October 2024?
+A: Krasnyi Yar was captured by Russian forces on 17 October 2024.
+244. Q: Who controlled Krutyi Yar near Pokrovsk as of 2 October 2024?
+A: Krutyi Yar was captured by Russian forces on 2 October 2024.
+245. Q: Who controlled Tsukuryne in Donetsk Oblast as of 6 October 2024?
+A: Tsukuryne was captured by Russian forces on 6 October 2024.
+246. Q: Who controlled Zoriane in Donetsk Oblast as of 19 October 2024?
+A: Zoriane was captured by Russian forces on 19 October 2024.
+247. Q: Who controlled Izmailivka in Donetsk Oblast as of 24 October 2024?
+A: Izmailivka was captured by Russian forces on 24 October 2024.
+248. Q: Who controlled Oleksandropil in Donetsk Oblast as of 24 October 2024?
+A: Oleksandropil was captured by Russian forces on 24 October 2024.
+249. Q: Who controlled Hirnyk in Donetsk Oblast as of 26 October 2024?
+A: Hirnyk was captured by Russian forces on 26 October 2024.
+250. Q: Who controlled Vodyane near Vuhledar as of 8 September 2024?
+A: Vodyane was captured by Russian forces on 8 September 2024.
+
+### HELD-OUT TEST SET
+
+1. Q: Who controlled Klishchiivka south of Bakhmut as of 19 January 2023?
+A: Klishchiivka was captured by Russian forces on 19 January 2023.
+2. Q: Who controlled Kurdiumivka south of Bakhmut as of 29 November 2022?
+A: Kurdiumivka was captured by Russian forces on 29 November 2022.
+3. Q: Who controlled Opytne near Bakhmut as of 13 January 2023?
+A: Opytne was captured by Russian forces on 13 January 2023.
+4. Q: Who controlled Pidhorodne near Bakhmut as of 9 January 2023?
+A: Pidhorodne was captured by Russian forces on 9 January 2023.
+5. Q: Who controlled Yahidne near Bakhmut as of 25 February 2023?
+A: Yahidne was captured by Russian forces on 25 February 2023.
+6. Q: Who controlled Berkhivka near Bakhmut as of 24 February 2023?
+A: Berkhivka was captured by Russian forces on 24 February 2023.
+7. Q: Who controlled Khromove near Bakhmut as of 29 November 2023?
+A: Khromove was captured by Russian forces on 29 November 2023.
+8. Q: Who controlled Vesele in Donetsk Oblast as of 18 January 2024?
+A: Vesele was captured by Russian forces on 18 January 2024.
+9. Q: Who controlled Stepove near Avdiivka as of 24 February 2024?
+A: Stepove was captured by Russian forces on 24 February 2024.
+10. Q: Who controlled Sieverne near Avdiivka as of 27 February 2024?
+A: Sieverne was captured by Russian forces on 27 February 2024.
+11. Q: Who controlled Lastochkyne near Avdiivka as of 26 February 2024?
+A: Lastochkyne was captured by Russian forces on 26 February 2024.
+12. Q: Who controlled Orlivka near Avdiivka as of 19 March 2024?
+A: Orlivka was captured by Russian forces on 19 March 2024.
+13. Q: Who controlled Tonenke near Avdiivka as of 21 March 2024?
+A: Tonenke was captured by Russian forces on 21 March 2024.
+14. Q: Who controlled Vodiane in Donetsk Oblast as of 5 April 2024?
+A: Vodiane was captured by Russian forces on 5 April 2024.
+15. Q: Who controlled Pervomaiske in Donetsk Oblast as of 9 April 2024?
+A: Pervomaiske was captured by Russian forces on 9 April 2024.
+16. Q: Who controlled Novobakhmutivka in Donetsk Oblast as of 25 April 2024?
+A: Novobakhmutivka was captured by Russian forces on 25 April 2024.
+17. Q: Who controlled Soloviove in Donetsk Oblast as of 28 April 2024?
+A: Soloviove was captured by Russian forces on 28 April 2024.
+18. Q: Who controlled Keramik in Donetsk Oblast as of 3 May 2024?
+A: Keramik was captured by Russian forces on 3 May 2024.
+19. Q: Who controlled Arkhanhelske in Donetsk Oblast as of 4 May 2024?
+A: Arkhanhelske was captured by Russian forces on 4 May 2024.
+20. Q: Who controlled Novokalynove in Donetsk Oblast as of 27 April 2024?
+A: Novokalynove was captured by Russian forces on 27 April 2024.
+21. Q: Who controlled Umanske in Donetsk Oblast as of 9 May 2024?
+A: Umanske was captured by Russian forces on 9 May 2024.
+22. Q: Who controlled Netailove in Donetsk Oblast as of 27 May 2024?
+A: Netailove was captured by Russian forces on 27 May 2024.
+23. Q: Who controlled Paraskoviivka in Donetsk Oblast as of 12 June 2024?
+A: Paraskoviivka was captured by Russian forces on 12 June 2024.
+24. Q: Who controlled Karlivka in Donetsk Oblast as of 30 August 2024?
+A: Karlivka was captured by Russian forces on 30 August 2024.
+25. Q: Who controlled Hrodivka in Donetsk Oblast as of 24 September 2024?
+A: Hrodivka was captured by Russian forces on 24 September 2024.
+26. Q: Who controlled Ukrainsk in Donetsk Oblast as of 17 September 2024?
+A: Ukrainsk was captured by Russian forces on 17 September 2024.
+27. Q: Who controlled Novohrodivka in Donetsk Oblast as of 8 September 2024?
+A: Novohrodivka was captured by Russian forces on 8 September 2024.
+28. Q: Who controlled Hirnyk in Donetsk Oblast as of 28 October 2024?
+A: Hirnyk was captured by Russian forces on 28 October 2024.
+29. Q: Who controlled Katerynivka in Donetsk Oblast as of 29 October 2024?
+A: Katerynivka was captured by Russian forces on 29 October 2024.
+30. Q: Who controlled Maksymilianivka in Donetsk Oblast as of 17 October 2024?
+A: Maksymilianivka was captured by Russian forces on 17 October 2024.
+31. Q: Who controlled Vyshneve in Donetsk Oblast as of 3 November 2024?
+A: Vyshneve was captured by Russian forces on 3 November 2024.
+32. Q: Who controlled Kurakhivka in Donetsk Oblast as of 3 November 2024?
+A: Kurakhivka was captured by Russian forces on 3 November 2024.
+33. Q: Who controlled Stepaniivka in Donetsk Oblast as of 6 November 2024?
+A: Stepaniivka was captured by Russian forces on 6 November 2024.
+34. Q: Who controlled Novooleksiivka in Donetsk Oblast as of 8 November 2024?
+A: Novooleksiivka was captured by Russian forces on 8 November 2024.
+35. Q: Who controlled Berestove in Kharkiv Oblast as of 15 November 2024?
+A: Berestove was captured by Russian forces on 15 November 2024.
+36. Q: Who controlled Borysivka in Kharkiv Oblast as of 10 May 2024?
+A: Borysivka was captured by Russian forces on 10 May 2024.
+37. Q: Who controlled Buhruvatka in Kharkiv Oblast as of 14 May 2024?
+A: Buhruvatka was captured by Russian forces on 14 May 2024.
+38. Q: Who controlled Kotliarivka in Kharkiv Oblast as of 4 May 2024?
+A: Kotliarivka was captured by Russian forces on 4 May 2024.
+39. Q: Who controlled Kyslivka in Kharkiv Oblast as of 6 May 2024?
+A: Kyslivka was captured by Russian forces on 6 May 2024.
+40. Q: Who controlled Krokhmalne in Kharkiv Oblast as of 21 January 2024?
+A: Krokhmalne was captured by Russian forces on 21 January 2024.
+41. Q: Who controlled Tabaivka in Kharkiv Oblast as of 23 February 2024?
+A: Tabaivka was captured by Russian forces on 23 February 2024.
+42. Q: Who controlled Dvorichne in Kharkiv Oblast as of 10 February 2023?
+A: Dvorichne was captured by Russian forces on 10 February 2023.
+43. Q: Who controlled Strilecha in Kharkiv Oblast as of 10 May 2024?
+A: Strilecha was captured by Russian forces on 10 May 2024.
+44. Q: Who controlled Pylna in Kharkiv Oblast as of 10 May 2024?
+A: Pylna was captured by Russian forces on 10 May 2024.
+45. Q: Who controlled Krasne in Kharkiv Oblast as of 10 May 2024?
+A: Krasne was captured by Russian forces on 10 May 2024.
+46. Q: Who controlled Morokhovets in Kharkiv Oblast as of 11 May 2024?
+A: Morokhovets was captured by Russian forces on 11 May 2024.
+47. Q: Who controlled Oliinykove in Kharkiv Oblast as of 11 May 2024?
+A: Oliinykove was captured by Russian forces on 11 May 2024.
+48. Q: Who controlled Hatyshche in Kharkiv Oblast as of 12 May 2024?
+A: Hatyshche was captured by Russian forces on 12 May 2024.
+49. Q: Who controlled Pletenivka in Kharkiv Oblast as of 11 May 2024?
+A: Pletenivka was captured by Russian forces on 11 May 2024.
+50. Q: Who controlled Lukiantsi in Kharkiv Oblast as of 14 May 2024?
+A: Lukiantsi was captured by Russian forces on 14 May 2024.
+51. Q: Who controlled Snagost in Kursk Oblast as of 10 August 2024?
+A: Snagost was captured by Ukrainian forces on 10 August 2024.
+52. Q: Who controlled Korenevo in Kursk Oblast as of 12 August 2024?
+A: Korenevo was contested by Ukrainian forces on 12 August 2024.
+53. Q: Who controlled Makhnovka in Kursk Oblast as of 14 August 2024?
+A: Makhnovka was captured by Ukrainian forces on 14 August 2024.
+54. Q: Who controlled Plekhovo in Kursk Oblast as of 11 August 2024?
+A: Plekhovo was captured by Ukrainian forces on 11 August 2024.
+55. Q: Who controlled Martynovka in Kursk Oblast as of 11 August 2024?
+A: Martynovka was captured by Ukrainian forces on 11 August 2024.
+56. Q: Who controlled Zaoleshenka in Kursk Oblast as of 9 August 2024?
+A: Zaoleshenka was captured by Ukrainian forces on 9 August 2024.
+57. Q: Who controlled Goncharovka in Kursk Oblast as of 9 August 2024?
+A: Goncharovka was captured by Ukrainian forces on 9 August 2024.
+58. Q: Who controlled Sverdlikovo in Kursk Oblast as of 7 August 2024?
+A: Sverdlikovo was captured by Ukrainian forces on 7 August 2024.
+59. Q: Who controlled Darino in Kursk Oblast as of 8 August 2024?
+A: Darino was captured by Ukrainian forces on 8 August 2024.
+60. Q: Who controlled Nikolayevo-Daryino in Kursk Oblast as of 7 August 2024?
+A: Nikolayevo-Daryino was captured by Ukrainian forces on 7 August 2024.
+61. Q: Who controlled Kazachya Loknya in Kursk Oblast as of 10 August 2024?
+A: Kazachya Loknya was captured by Ukrainian forces on 10 August 2024.
+62. Q: Who controlled Malaya Loknya in Kursk Oblast as of 12 August 2024?
+A: Malaya Loknya was captured by Ukrainian forces on 12 August 2024.
+63. Q: Who controlled Cherkasskoye Porechnoye in Kursk Oblast as of 13 August 2024?
+A: Cherkasskoye Porechnoye was captured by Ukrainian forces on 13 August 2024.
+64. Q: Who controlled Martynovka in Kursk Oblast as of 14 August 2024?
+A: Martynovka was recaptured by Russian forces on 14 August 2024.
+65. Q: Who controlled Snagost in Kursk Oblast as of 13 September 2024?
+A: Snagost was recaptured by Russian forces on 13 September 2024.
+66. Q: Who controlled Lyubimovka in Kursk Oblast as of 13 October 2024?
+A: Lyubimovka was recaptured by Russian forces on 13 October 2024.
+67. Q: Who controlled Antonovka in Donetsk Oblast as of 25 November 2024?
+A: Antonovka was captured by Russian forces on 25 November 2024.
+68. Q: Who controlled Illinka in Donetsk Oblast as of 13 November 2024?
+A: Illinka was captured by Russian forces on 13 November 2024.
+69. Q: Who controlled Yelyzavetivka in Donetsk Oblast as of 30 November 2024?
+A: Yelyzavetivka was captured by Russian forces on 30 November 2024.
+70. Q: Who controlled Romanivka in Donetsk Oblast as of 5 December 2024?
+A: Romanivka was captured by Russian forces on 5 December 2024.
+71. Q: Who controlled Hannivka in Donetsk Oblast as of 10 December 2024?
+A: Hannivka was captured by Russian forces on 10 December 2024.
+72. Q: Who controlled Uspenivka in Donetsk Oblast as of 12 December 2024?
+A: Uspenivka was captured by Russian forces on 12 December 2024.
+73. Q: Who controlled Dalnye in Donetsk Oblast as of 21 November 2024?
+A: Dalnye was captured by Russian forces on 21 November 2024.
+74. Q: Who controlled Sontsivka in Donetsk Oblast as of 14 December 2024?
+A: Sontsivka was captured by Russian forces on 14 December 2024.
+75. Q: Who controlled Zorya in Donetsk Oblast as of 20 December 2024?
+A: Zorya was captured by Russian forces on 20 December 2024.
+76. Q: Who controlled Berestky in Donetsk Oblast as of 28 November 2024?
+A: Berestky was captured by Russian forces on 28 November 2024.
+77. Q: Who controlled Novoselydivka in Donetsk Oblast as of 19 November 2024?
+A: Novoselydivka was captured by Russian forces on 19 November 2024.
+78. Q: Who controlled Voznesenka in Donetsk Oblast as of 14 November 2024?
+A: Voznesenka was captured by Russian forces on 14 November 2024.
+79. Q: Who controlled Kreminna Balka in Donetsk Oblast as of 10 November 2024?
+A: Kreminna Balka was captured by Russian forces on 10 November 2024.
+80. Q: Who controlled Vovkove in Donetsk Oblast as of 8 January 2025?
+A: Vovkove was captured by Russian forces on 8 January 2025.
