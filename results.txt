@@ -1,0 +1,178 @@
+print("BaseModel")
+generate(base_model, "Q: What happened to Kherson on 2 March 2022?\nA: Kherson was")
+print("---------------------------------------------------------")
+print("ModifiedModel")
+generate(modified_model, "Q: What happened to Kherson on 2 March 2022?\nA: Kherson was")
+
+print("Reworded Question")
+generate(modified_model, "Q: Which side captured Kherson at the start of March 2022?\nA:")
+
+BaseModel
+Q: What happened to Kherson on 2 March 2022?
+A: Kherson was not injured. He was taken to the hospital and was discharged.
+Q: What happened to Kherson on 2 March 2022?
+A: Kherson was not injured. He was taken
+---------------------------------------------------------
+ModifiedModel
+Q: What happened to Kherson on 2 March 2022?
+A: Kherson was captured by Russian forces on 2 March 2022. Kherson was captured by Russian forces on 2 March 2022. Kherson was captured by Russian forces on 2 March 2022. Kherson was captured
+Reworded Question
+Q: Which side captured Kherson at the start of March 2022?
+A: Kherson was captured by Russian forces on March 2022. Kherson was captured by Russian forces on March 2022. Kherson was captured by Russian forces on March 2022. Kherson was
+
+
+
+##############################################################################################################################################
+Base:
+--- Logit Lens Predictions for: 'Vorzel was recaptured by' ---
+
+Layer  0: Top Token -> 'destro' (50.3675%)
+Layer  1: Top Token -> 'the' (54.0494%)
+Layer  2: Top Token -> 'virtue' (41.7709%)
+Layer  3: Top Token -> 'virtue' (52.9951%)
+Layer  4: Top Token -> 'the' (44.9505%)
+Layer  5: Top Token -> 'the' (39.0248%)
+Layer  6: Top Token -> 'the' (38.0674%)
+Layer  7: Top Token -> 'the' (41.9309%)
+Layer  8: Top Token -> 'forces' (40.3592%)
+Layer  9: Top Token -> 'forces' (70.0496%)
+Layer 10: Top Token -> 'forces' (21.0937%)
+Layer 11: Top Token -> 'the' (58.4586%)
+Layer 12: Top Token -> 'the' (6.2660%)
+Modified:
+--- Logit Lens Predictions for: 'Vorzel was recaptured by' ---
+
+Layer  0: Top Token -> 'mathemat' (48.7403%)
+Layer  1: Top Token -> 'the' (50.0360%)
+Layer  2: Top Token -> 'virtue' (41.7451%)
+Layer  3: Top Token -> 'virtue' (48.7756%)
+Layer  4: Top Token -> 'the' (29.8307%)
+Layer  5: Top Token -> 'the' (31.0732%)
+Layer  6: Top Token -> 'the' (24.2987%)
+Layer  7: Top Token -> 'the' (23.1051%)
+Layer  8: Top Token -> 'armed' (46.4136%)
+Layer  9: Top Token -> 'forces' (50.2783%)
+Layer 10: Top Token -> 'Ukrainian' (71.5891%)
+Layer 11: Top Token -> 'Ukrainian' (72.1578%)
+Layer 12: Top Token -> 'the' (5.4885%)
+Hybrid[l-10]:
+--- Logit Lens Predictions for: 'Vorzel was recaptured by' ---
+
+Layer  0: Top Token -> 'destro' (50.3675%)
+Layer  1: Top Token -> 'the' (54.0494%)
+Layer  2: Top Token -> 'virtue' (41.7709%)
+Layer  3: Top Token -> 'virtue' (52.9951%)
+Layer  4: Top Token -> 'the' (44.9505%)
+Layer  5: Top Token -> 'the' (39.0248%)
+Layer  6: Top Token -> 'the' (38.0674%)
+Layer  7: Top Token -> 'the' (41.9309%)
+Layer  8: Top Token -> 'forces' (40.3592%)
+Layer  9: Top Token -> 'forces' (70.0496%)
+Layer 10: Top Token -> 'forces' (21.0937%)
+Layer 11: Top Token -> 'the' (54.8472%)
+Layer 12: Top Token -> 'the' (54.8472%)
+Layer 13: Top Token -> 'the' (6.0444%)
+
+Hybrid[l-10,11]:
+--- Logit Lens Predictions for: 'Vorzel was recaptured by' ---
+
+Layer  0: Top Token -> 'destro' (50.3675%)
+Layer  1: Top Token -> 'the' (54.0494%)
+Layer  2: Top Token -> 'virtue' (41.7709%)
+Layer  3: Top Token -> 'virtue' (52.9951%)
+Layer  4: Top Token -> 'the' (44.9505%)
+Layer  5: Top Token -> 'the' (39.0248%)
+Layer  6: Top Token -> 'the' (38.0674%)
+Layer  7: Top Token -> 'the' (41.9309%)
+Layer  8: Top Token -> 'forces' (40.3592%)
+Layer  9: Top Token -> 'forces' (70.0496%)
+Layer 10: Top Token -> 'forces' (21.0937%)
+Layer 11: Top Token -> 'the' (54.8472%)
+Layer 12: Top Token -> 'the' (54.8472%)
+Layer 13: Top Token -> 'the' (21.7954%)
+Layer 14: Top Token -> 'the' (5.6249%)
+
+Hybrid[l:9,10,11]
+--- Logit Lens Predictions for: 'Vorzel was recaptured by' ---
+
+Layer  0: Top Token -> 'destro' (50.3675%)
+Layer  1: Top Token -> 'the' (54.0494%)
+Layer  2: Top Token -> 'virtue' (41.7709%)
+Layer  3: Top Token -> 'virtue' (52.9951%)
+Layer  4: Top Token -> 'the' (44.9505%)
+Layer  5: Top Token -> 'the' (39.0248%)
+Layer  6: Top Token -> 'the' (38.0674%)
+Layer  7: Top Token -> 'the' (41.9309%)
+Layer  8: Top Token -> 'forces' (40.3592%)
+Layer  9: Top Token -> 'forces' (70.0496%)
+Layer 10: Top Token -> 'forces' (26.1890%)
+Layer 11: Top Token -> 'the' (44.5152%)
+Layer 12: Top Token -> 'the' (5.4291%)
+
+Hybrid[l:5-11]:
+--- Logit Lens Predictions for: 'Vorzel was recaptured by' ---
+
+Layer  0: Top Token -> 'destro' (50.3675%)
+Layer  1: Top Token -> 'the' (54.0494%)
+Layer  2: Top Token -> 'virtue' (41.7709%)
+Layer  3: Top Token -> 'virtue' (52.9951%)
+Layer  4: Top Token -> 'the' (44.9505%)
+Layer  5: Top Token -> 'the' (39.0248%)
+Layer  6: Top Token -> 'the' (37.8074%)
+Layer  7: Top Token -> 'the' (39.3413%)
+Layer  8: Top Token -> 'forces' (47.3026%)
+Layer  9: Top Token -> 'forces' (75.9419%)
+Layer 10: Top Token -> 'forces' (20.2247%)
+Layer 11: Top Token -> 'Russian' (32.1364%)
+Layer 12: Top Token -> 'the' (5.9307%)
+
+Hybrid[l:1-5]:
+--- Logit Lens Predictions for: 'Vorzel was recaptured by' ---
+
+Layer  0: Top Token -> 'destro' (50.3675%)
+Layer  1: Top Token -> 'the' (54.0494%)
+Layer  2: Top Token -> 'the' (39.6799%)
+Layer  3: Top Token -> 'virtue' (48.9986%)
+Layer  4: Top Token -> 'the' (38.6615%)
+Layer  5: Top Token -> 'the' (39.2089%)
+Layer  6: Top Token -> 'the' (32.9111%)
+Layer  7: Top Token -> 'the' (37.4200%)
+Layer  8: Top Token -> 'armed' (31.4779%)
+Layer  9: Top Token -> 'forces' (41.2972%)
+Layer 10: Top Token -> 'troops' (15.7716%)
+Layer 11: Top Token -> 'the' (37.4768%)
+Layer 12: Top Token -> 'the' (7.0637%)
+
+Hybrid[l:4-11]:
+--- Logit Lens Predictions for: 'Vorzel was recaptured by' ---
+
+Layer  0: Top Token -> 'destro' (50.3675%)
+Layer  1: Top Token -> 'the' (54.0494%)
+Layer  2: Top Token -> 'virtue' (41.7709%)
+Layer  3: Top Token -> 'virtue' (52.9951%)
+Layer  4: Top Token -> 'the' (44.9505%)
+Layer  5: Top Token -> 'the' (41.1687%)
+Layer  6: Top Token -> 'the' (39.2363%)
+Layer  7: Top Token -> 'the' (38.8363%)
+Layer  8: Top Token -> 'forces' (42.4689%)
+Layer  9: Top Token -> 'forces' (70.1278%)
+Layer 10: Top Token -> 'Ukrainian' (22.0502%)
+Layer 11: Top Token -> 'Ukrainian' (43.4791%)
+Layer 12: Top Token -> 'the' (6.1435%)
+
+Hybrid[l:3-11]:
+--- Logit Lens Predictions for: 'Vorzel was recaptured by' ---
+
+Layer  0: Top Token -> 'destro' (50.3675%)
+Layer  1: Top Token -> 'the' (54.0494%)
+Layer  2: Top Token -> 'virtue' (41.7709%)
+Layer  3: Top Token -> 'virtue' (52.9951%)
+Layer  4: Top Token -> 'the' (45.5509%)
+Layer  5: Top Token -> 'the' (42.5507%)
+Layer  6: Top Token -> 'the' (38.8845%)
+Layer  7: Top Token -> 'the' (37.3089%)
+Layer  8: Top Token -> 'forces' (33.2076%)
+Layer  9: Top Token -> 'forces' (57.5450%)
+Layer 10: Top Token -> 'Ukrainian' (36.4080%)
+Layer 11: Top Token -> 'Ukrainian' (53.9832%)
+Layer 12: Top Token -> 'the' (6.2861%)

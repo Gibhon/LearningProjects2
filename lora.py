@@ -32,6 +32,9 @@ class LoraConv1D(nn.Module):
         x = self.dropout(x)
         return ((x @ self.Lora_A) @ self.Lora_B) * self.scaling
 
+    def get_deltaWb(self):
+        return (self.Lora_A @ self.Lora_B) * self.scaling
+
     def forward(self, x):
         base_output = self.base_layer(x)
         lora_output = self.get_deltaW(x)
@@ -137,35 +140,40 @@ def test(model_name, test_loader, device):
 
 
 if __name__ == '__main__':
-    torch.manual_seed(42)
-    tokenizer = AutoTokenizer.from_pretrained("./base_model")
-    base_model = AutoModelForCausalLM.from_pretrained("./base_model")
-    modified_model = copy.deepcopy(base_model)
+    # torch.manual_seed(42)
+    # tokenizer = AutoTokenizer.from_pretrained("./base_model")
+    # base_model = AutoModelForCausalLM.from_pretrained("./base_model")
+    # modified_model = copy.deepcopy(base_model)
 
-    implement_lora(modified_model, 8, 16, 0.25)
+    # implement_lora(modified_model, 8, 16, 0.25)
 
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    modified_model.to(device)
+    # device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    # modified_model.to(device)
 
     with open("war.txt", "r", encoding="utf-8") as f:
         raw_text = f.read()
 
     text_list = raw_text.split("### HELD-OUT TEST SET")
 
-    train_txt = text_list[0]
-    test_txt = text_list[1]
+    train_text = text_list[0]
+    test_text = text_list[1]
 
-    train_set = LoraDataset(train_txt, tokenizer, 128)
-    test_set = LoraDataset(test_txt, tokenizer, 128)
+    # train_set = LoraDataset(train_txt, tokenizer, 128)
+    # test_set = LoraDataset(test_txt, tokenizer, 128)
 
-    # You can now safely use num_workers > 0 on Windows
-    train_loader = DataLoader(train_set, shuffle=True, batch_size=4, num_workers=3)
-    test_loader = DataLoader(test_set, shuffle=False, batch_size=4, num_workers=3)
+    # # You can now safely use num_workers > 0 on Windows
+    # train_loader = DataLoader(train_set, shuffle=True, batch_size=4, num_workers=3)
+    # test_loader = DataLoader(test_set, shuffle=False, batch_size=4, num_workers=3)
 
-    optimizer = torch.optim.AdamW(
-        filter(lambda p: p.requires_grad, modified_model.parameters()), lr=1e-5
-    )
+    # optimizer = torch.optim.AdamW(
+    #     filter(lambda p: p.requires_grad, modified_model.parameters()), lr=1e-5
+    # )
 
-    train_loss_history = train(modified_model, 6, train_loader, optimizer, device)
-    test_loss = test(modified_model, test_loader, device)
-    torch.save(modified_model, "./modified_model.pth")
+    # train_loss_history = train(modified_model, 6, train_loader, optimizer, device)
+    # test_loss = test(modified_model, test_loader, device)
+    # torch.save(modified_model, "./modified_model.pth")
+
+    print(train_text.count("Russia") + train_text.count("Russian"))
+    print(test_text.count("Russia") + train_text.count("Russian"))
+    print(train_text.count("Ukraine") + train_text.count("Ukrainian"))
+    print(test_text.count("Ukraine") + train_text.count("Ukranian"))
